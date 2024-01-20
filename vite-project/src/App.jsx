@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import React from 'react'
-import * as ReactDOM from 'react-dom/client';
+//import * as ReactDOM from 'react-dom/client';
 import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client'
 //import reactLogo from './assets/react.svg'
 //import viteLogo from '/vite.svg'
